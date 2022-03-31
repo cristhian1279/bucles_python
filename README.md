@@ -3,7 +3,7 @@ Inove Escuela de Código\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
-# Bucles! [Python]
+# Condicionales! [Python]
 En este repositorio encontrarán las siguientes carpetas:
 
 __Ejemplos que el profesor mostrará en clase__\
@@ -17,4 +17,3 @@ ejercicios_profundizacion/
 
 # Consultas
 alumnos@inove.com.ar
-
